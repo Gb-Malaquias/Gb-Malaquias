@@ -35,7 +35,7 @@
 </div>
 
 <!--SNAKE GAME-->
-<img src="https://raw.githubusercontent.com/marccosabino/marccosabino/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/gbpool/gbpool/output/snake.svg" alt="Snake animation"/>
 
 ##
 
