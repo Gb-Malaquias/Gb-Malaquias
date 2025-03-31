@@ -34,9 +34,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>   
 </div>
 
-<!--SNAKE GAME-->
-<img src="https://raw.githubusercontent.com/gbpool/gbpool/output/snake.svg" alt="Snake animation"/>
 
-##
+
 
 **Obrigado por visitar meu perfil! Estou ansioso para me conectar e compartilhar conhecimentos com a comunidade! 🌱**
