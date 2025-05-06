@@ -9,10 +9,16 @@
 <!--DESCRIPTION-->
 <div align="center">
   
-  🌱 Sou um entusiasta na área de dados
+  🛠 Atualmente estou explorando linguagens e conceitos de programação
   
   
-  💬 Atualmente estou mergulhando em JavaScript, Java e Python
+  💬 Focando atualmente em c# e Java 
+  </p>
+  
+  📍 Almejo uma carreira internacional, embora ainda esteja definindo minha área de atuação principal.
+
+
+
   
 </div>
 
@@ -32,9 +38,10 @@
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg"/>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>   
+  
 </div>
 
+ </p>
 
 
-
-**Obrigado por visitar meu perfil! Estou ansioso para me conectar e compartilhar conhecimentos com a comunidade! 🌱**
+**Obrigado por visitar meu perfil! Estou ansioso para me conectar e compartilhar conhecimentos com a comunidade!⚡**
