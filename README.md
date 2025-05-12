@@ -24,11 +24,13 @@
 
 <!--STATS-->
  <br>
- <div align="center">
-    <a href="https://github.com/marccosabino">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gbpool&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbpool&layout=compact&langs_count=7&theme=dark"/>
- </div>
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gb-Malaquias&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gb-Malaquias&layout=compact&theme=tokyonight)
+  
+  </div>
+
 
 <!--TECHNOLOGIES-->
 
