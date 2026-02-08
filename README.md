@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá :) <br>Meu nome é Gabriel, estou estudando e me especializando em ser um desenvolvedor Back-End, atualmente focando em C# e pensando em expandir para next.js depois.<br>Tenho conhecimentos em: HTML, CSS, Javascript, C#, python, mySql, Cloud AWS, ja mechi com android, projetos focados em IA.<br>Eu diria que sou um dev com um pé em cada área, mas focando em melhorar em uma especifica. 
+Olá :) <br>Meu nome é Gabriel, estou estudando e me especializando em ser um desenvolvedor Back-End, atualmente focando em C# e pensando em expandir para next.js depois.<br>Tenho conhecimentos em: HTML, CSS, Javascript, C#, python, mySql, Cloud AWS, ja mechi com android, projetos focados em IA.<br>Eu diria que sou um dev que ja passou por cada área, mas focando em melhorar em Back-End. 
 
 
 ## 🌐 Socials:
